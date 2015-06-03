@@ -33,3 +33,5 @@ A new change
 ## Skills Taught
 
 Git / Github
+
+Betamore = Bettermore
